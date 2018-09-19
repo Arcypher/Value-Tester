@@ -1,0 +1,4 @@
+﻿  value.cpp
+e:\users\john\documents\c++ projects\value tester\value tester\value.cpp(64): warning C4715: 'Value::returnValue': not all control paths return a value
+  Value Tester.vcxproj -> E:\Users\John\Documents\C++ projects\Value Tester\Debug\Value Tester.exe
+  Value Tester.vcxproj -> E:\Users\John\Documents\C++ projects\Value Tester\Debug\Value Tester.pdb (Partial PDB)
